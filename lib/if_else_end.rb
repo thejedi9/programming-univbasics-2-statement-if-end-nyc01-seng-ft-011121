@@ -16,3 +16,9 @@ if Time.now.to_i % 2 == 0
 else
   puts "Odd!"
 end
+Time.now 
+current_time = Time.now
+current_time.to_s 
+current_time.to_i
+if true
+  puts "Even"
